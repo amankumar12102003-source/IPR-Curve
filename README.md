@@ -60,8 +60,3 @@ The models were validated against the Keokuk Pool field data, comparing theoreti
 
 **Conclusion:** The tested "New correlation" significantly outperforms standard industry models in predicting future well deliverability as the reservoir depletes, reducing the future prediction error to under **3.5%**.
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/IPR-Analysis.git](https://github.com/yourusername/IPR-Analysis.git)
