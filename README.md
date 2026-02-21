@@ -1,4 +1,5 @@
 # Reservoir Inflow Performance Relationship (IPR) Analysis
+![Curve Preview](Curve.png)
 
 
 
